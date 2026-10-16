@@ -1,0 +1,4 @@
+market-simulator
+.DS_Store
+build/
+*.o
